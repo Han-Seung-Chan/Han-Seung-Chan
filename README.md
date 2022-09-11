@@ -24,7 +24,7 @@
 <br>
  
 ---
-
+</div>
 
 
 <center>
@@ -32,4 +32,4 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Han-Seung-Chan&show_icons=true&theme=great-gatsby"/>
 <center>
  
-</div>
+
